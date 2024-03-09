@@ -3,7 +3,7 @@
 - Aluno do terceiro ano do ensino médio
 - Cursando Técnico em Desenvolvimento de Sistemas
 - Estudante Fullstack em Javascript
-- 2 anos de experiência em Robótica (First Robotics Competition):
+- 2 anos de experiência em Robótica (_First Robotics Competition_):
   - Integrante da equipe #9050 Tucanus: ganhadora do Imagery Award in honor of Jack Kamen
 
 
